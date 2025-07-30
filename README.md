@@ -4,8 +4,4 @@ This repository contains my personal solutions to the problem sets from Harvard'
 
 ## Disclaimer
 
-These solutions are for my own personal and educational use. If you are also taking the CS50P course, please be sure to follow the course's policy on academic honesty and write your own code.
-
----
-
-Happy coding! 🐍
+These solutions are for my own personal and educational use. If you are also taking the CS50P course, please be sure to follow the course's policy on academic honesty and write your own code. Happy coding! 🐍
